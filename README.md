@@ -1,7 +1,6 @@
 ## Oi, eu sou o Jean!
 
 - 🌱 Estudando Desenvolvimento Web
-- 📫 Meu endereço de email: jeansantos@id.uff.br
 - 😄 Pronouns: ele/dele
 
 <div align="center">
