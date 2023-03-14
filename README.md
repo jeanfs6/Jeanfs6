@@ -3,6 +3,17 @@
 - 🌱 Estudando Desenvolvimento Web
 - 😄 Pronouns: ele/dele
 
+- JavaScript
+- HTML
+- CSS
+- React
+- Redux
+- Unit Tests
+- Docker
+- MySQL
+- Express
+- Software Architecture (Model, Service, Controller)
+
 <div align="center">
   <a href="https://github.com/jeands6">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jeanfs6&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
